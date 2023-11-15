@@ -1,2 +1,2 @@
 # Simon_Game
-A simple Simon Says game built using JavaScript.
+A simple Simon Says game that I built using JavaScript. 
